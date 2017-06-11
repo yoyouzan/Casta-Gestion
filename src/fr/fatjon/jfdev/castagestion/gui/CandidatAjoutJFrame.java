@@ -113,13 +113,6 @@ public class CandidatAjoutJFrame extends JFrame {
 	}
 	
 	
-	
-	public CandidatJFrame getFenetrePrincipale() {
-		return fenetrePrincipale;
-	}
-	public CandidatJFrame getFenetrePrincipale() {
-		return fenetrePrincipale;
-	}
 
 
 	
